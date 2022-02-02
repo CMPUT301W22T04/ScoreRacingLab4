@@ -5,3 +5,5 @@ public class Star extends Shape{
         super(x, y);
     }
 }
+
+
